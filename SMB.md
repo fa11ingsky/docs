@@ -1,3 +1,10 @@
+---
+description: Enumeration techniques against windows SMB service (port 445/139)
+icon: computer
+---
+
+# SMB tradecraft
+
 Enumerate shares
 
 ```
