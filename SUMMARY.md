@@ -3,6 +3,7 @@
 * [Welcome](README.md)
 * [Landing Page](landing-page.md)
 * [SMB Tradecraft](SMB.md)
+* [COM Objects](COMObjects.md)
 
 ## Getting Started
 
