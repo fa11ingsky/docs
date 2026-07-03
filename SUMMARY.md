@@ -9,6 +9,7 @@
 
 ### Active Directory
 
+* [Enumeration](ActiveDirectory/Enumeration.md)
 * [ADCS Attacks](ActiveDirectory/ADCSAttacks.md)
 * [Resource Based Constrained Delegation](ActiveDirectory/RBCD.md)
 * [Kerberoasting](ActiveDirectory/Kerberoast.md)
